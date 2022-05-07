@@ -1,5 +1,7 @@
-# cars-sensor-data
-Analysis of sensor data to better understand their harm to environment
+# cars-sensor-data-viz
+Analysis of sensor data to better understand different car models' harm to environment.
+
+The dataset is collected from car sensors and has 103.625 rows. 
 
 1. How much CO2 is produced each day
 ![](amount-of-co2-each-day.png)
